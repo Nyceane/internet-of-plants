@@ -1,0 +1,99 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".jshintrc": {
+        "previousModTime": 1462316646000,
+        "modified": 1462316646000,
+        "seen": true,
+        "name": ".jshintrc"
+      },
+      "AirQuality.xdk": {
+        "previousModTime": 1468664723000,
+        "modified": 1468664723000,
+        "seen": true,
+        "name": "AirQuality.xdk"
+      },
+      "AirQuality.xdke": {
+        "previousModTime": 1488703047000,
+        "modified": 1488703047000,
+        "seen": true,
+        "name": "AirQuality.xdke"
+      },
+      "LICENSES.md": {
+        "previousModTime": 1462316646000,
+        "modified": 1462316646000,
+        "seen": true,
+        "name": "LICENSES.md"
+      },
+      "README.md": {
+        "previousModTime": 1462316646000,
+        "modified": 1462316646000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "app.json": {
+        "previousModTime": 1462316646000,
+        "modified": 1462316646000,
+        "seen": true,
+        "name": "app.json"
+      },
+      "config.json": {
+        "previousModTime": 1462316646000,
+        "modified": 1462316646000,
+        "seen": true,
+        "name": "config.json"
+      },
+      "datastore.js": {
+        "previousModTime": 1462316646000,
+        "modified": 1462316646000,
+        "seen": true,
+        "name": "datastore.js"
+      },
+      "icon.png": {
+        "previousModTime": 1462316646000,
+        "modified": 1462316646000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "index.js": {
+        "previousModTime": 1488702995000,
+        "modified": 1488702995000,
+        "seen": true,
+        "name": "index.js"
+      },
+      "mqtt.js": {
+        "previousModTime": 1462316646000,
+        "modified": 1462316646000,
+        "seen": true,
+        "name": "mqtt.js"
+      },
+      "package.json": {
+        "previousModTime": 1483839712000,
+        "modified": 1483839712000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk-publish-meta-data.json": {
+        "previousModTime": 1468663909000,
+        "modified": 1468663909000,
+        "seen": true,
+        "name": "xdk-publish-meta-data.json"
+      }
+    },
+    "boardFileStatus": {
+      "index.js": {
+        "previousModTime": 1488704963020
+      }
+    }
+  }
+}

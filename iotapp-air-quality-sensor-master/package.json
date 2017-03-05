@@ -1,0 +1,12 @@
+{
+  "name": "air-quality-sensor",
+  "private": true,
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "superagent": "^1.3.0",
+    "request":"2.79.0"
+  }
+}
